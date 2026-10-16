@@ -7,6 +7,7 @@ Politiques de confidentialité de mes applications, publiées par GitHub Pages
 |---|---|
 | Mia | https://cmickael.github.io/privacy/mia/ |
 | Mots fléchés | https://cmickael.github.io/privacy/mots-fleches/ |
+| EnigmAbyss | https://cmickael.github.io/privacy/enigmabyss/ |
 
 Ajouter une application : créer `<app>/index.html` sur le modèle d'une page
 existante, et l'ajouter à la liste de `index.html`.
